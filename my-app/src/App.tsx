@@ -1,8 +1,6 @@
-import React from 'react';
 import './App.css';
 import Logo from './logo';
 import Hello from './HelloWorld';
-import { render } from '@testing-library/react';
 
 function App() {
   return (
